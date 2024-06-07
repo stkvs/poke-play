@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Pallet Town",
+        "min_hp": 20,
+        "max_hp": 50,
+        "min_level": 3,
+        "max_level": 8
+    },
+    {
+        "name": "Viridian City",
+        "min_hp": 40,
+        "max_hp": 100,
+        "min_level": 10,
+        "max_level": 18
+    },
+    {
+        "name": "Pewter City",
+        "min_hp": 60,
+        "max_hp": 120,
+        "min_level": 15,
+        "max_level": 26
+    },
+    {
+        "name": "Cerulean City",
+        "min_hp": 80,
+        "max_hp": 140,
+        "min_level": 20,
+        "max_level": 34
+    },
+    {
+        "name": "Vermilion City",
+        "min_hp": 100,
+        "max_hp": 160,
+        "min_level": 25,
+        "max_level": 42
+    },
+    {
+        "name": "Lavender Town",
+        "min_hp": 120,
+        "max_hp": 180,
+        "min_level": 30,
+        "max_level": 50
+    },
+    {
+        "name": "Celadon City",
+        "min_hp": 140,
+        "max_hp": 200,
+        "min_level": 35,
+        "max_level": 58
+    },
+    {
+        "name": "Fuchsia City",
+        "min_hp": 160,
+        "max_hp": 220,
+        "min_level": 40,
+        "max_level": 66
+    },
+    {
+        "name": "Saffron City",
+        "min_hp": 180,
+        "max_hp": 240,
+        "min_level": 45,
+        "max_level": 74
+    },
+    {
+        "name": "Cinnabar Island",
+        "min_hp": 200,
+        "max_hp": 260,
+        "min_level": 50,
+        "max_level": 82
+    }
+]
